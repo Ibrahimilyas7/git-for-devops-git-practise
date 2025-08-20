@@ -1,5 +1,54 @@
-print("hello friends this is mohd ibrahim ilyas how are you all ? hope you are doing great.")
-print("this is the code to test the git in vscode")
-
-
-
+ 2 python test.py
+   3 git status
+   4 git add test.py
+   5 git init
+   6 git status
+   7 git commit -m "add test.py"
+   8 git status
+   9 git commit -m "add test.py"
+  10 git status
+  11 git commit -m "add test.py"
+  12 clear
+  13 git status
+  14 rm test.py
+  15 touch first.py
+  16 clear
+  17 python first.py
+  18 git add first.py
+  19 status
+  20 git status
+  21 git restore git.py
+  22 git restore test.py
+  23 git status
+  24 git init
+  25 git status
+  26 git commit -m " add first.py"
+  27 git status
+  28 git rm first.py
+  29 git restore first.py
+  30 git restore first.py
+  31 git restore "first.py"
+  32 git status
+  33 git restore --first.py
+  34 git restore first.py
+  35 history
+  36 history
+  37 git restore first.py
+  38 git status
+  39 git restore "first.py"
+  40 ls
+  41 status
+  42 git status
+  43 git restore -- staged  first.py
+  44 git status
+  45 git add git,py
+  46 git status
+  47 git restore -- first.py
+  48 "git restore first.py"
+  49 git status
+  50 git config
+  51 clear
+  52 git status
+  53 git commit -m "add first.py"
+  54 git status
+  55 ls

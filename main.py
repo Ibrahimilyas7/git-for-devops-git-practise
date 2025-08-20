@@ -1,1 +1,0 @@
-print(" ok hello friends this is the checking of file whether it is  converting file from a file system to git vcs ")
