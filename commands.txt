@@ -64,4 +64,21 @@
   65 git status
   66 git status
   67 clear
-
+ Id CommandLine
+  -- -----------
+   1 try { . "c:\Users\dell\AppData\Local\Programs\Microsoft VS Code\resources\app\... 
+   2 git remote add origin https://github.com/Ibrahimilyas7/git-for-devops-git-prac... 
+   3 git remote -v
+   4 clear
+   5 git status
+   6 git commit -m "add commands.txt"
+   7 git init
+   8 git add commands.txt
+   9 git status
+  10 git commit -m " add command.txt"
+  11 git status
+  12 git remote add origin
+  13 git for devops\git-practiseclear
+  14 git push https://github.com/Ibrahimilyas7/git-for-devops-git-practise.git
+  15 git status
+  16 git branch
