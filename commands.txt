@@ -64,6 +64,7 @@
   65 git status
   66 git status
   67 clear
+<<<<<<< HEAD
  Id CommandLine
   -- -----------
    1 try { . "c:\Users\dell\AppData\Local\Programs\Microsoft VS Code\resources\app\... 
@@ -82,3 +83,11 @@
   14 git push https://github.com/Ibrahimilyas7/git-for-devops-git-practise.git
   15 git status
   16 git branch
+=======
+this is new changes not from local system but from github itself to commit changes to local , by using the -- command git pull origin master ,the changes are made on github but the command should run on the terminal of the local system.
+
+
+
+
+
+>>>>>>> 6b6740f261e4e031e9c09a37a2039ec1e26e2e76
