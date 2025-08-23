@@ -65,6 +65,7 @@
   66 git status
   67 clear
 this is new changes not from local system but from github itself to commit changes to local , by using the -- command git pull origin master ,the changes are made on github but the command should run on the terminal of the local system.
+ok thats it thank you
 
 
 
