@@ -94,4 +94,4 @@ this is new changes not from local system but from github itself to commit chang
 >>>>>>> 6b6740f261e4e031e9c09a37a2039ec1e26e2e76
 this is from dev branch
 ok this is to create the 96th line from git and sending it to local system., using the command git pull origin <branch name >.
-
+this is the last chandes that is made to merge the data from dev to master and operation branch.
